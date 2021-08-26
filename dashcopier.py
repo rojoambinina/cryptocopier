@@ -1,4 +1,4 @@
-# Copyright 2017 - writed by Rojo Ambinina
+# Copyright 2017 - written by Rojo Ambinina
 
 #  This code is just a homemade webscraping algorithm, to store in a file "Dashcoin_address.txt" 
 #  the top 100 richest in Dashcoin on https://bitinfocharts.com using the module BeautifulSoup and Requests.
