@@ -7,7 +7,7 @@ To use it, you just have to type in your usual terminal the command below to ins
 
 ## pip install beautifulsoup4 requests
 
-Then you just have to go to the folder where the files are, choose the cryptocurrency you want to save, and type its name:
+Then you just have to go to the folder where the files are, choose the cryptocurrency you want to save, and type its name as the following commands:
 
 py ltccopier.py
 
