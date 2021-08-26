@@ -44,7 +44,7 @@ while True:
     except:
         print("\n\t Please wait ...\n")
         with open('Reddcoin_address.txt', 'a+') as output:
-            output.write("\n----------------------- There was an ERROR here, that means countdown of that page start over -----------------------\n\n")
+            output.write("\n----------------------- There was an ERROR here -----------------------\n\n")
             output.close()
         time.sleep(5)
         print("\t Error solved, Restarting ... \n")
